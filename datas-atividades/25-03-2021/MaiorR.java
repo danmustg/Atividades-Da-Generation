@@ -1,5 +1,5 @@
 package Turma20;
-
+//MAIOR NUMERO
 import java.util.Scanner;
 public class MaiorR {
 
@@ -21,15 +21,15 @@ public class MaiorR {
 		
 		if (n1>n2 && n1>n3)
 		{
-			System.out.println("O maior valor é "+n1);
+			System.out.println("O maior valor Ã© "+n1);
 		}
 		else if (n2>n1 && n2>n3)
 		{
-			System.out.println("O maior valor é "+n2);
+			System.out.println("O maior valor Ã© "+n2);
 		}
 		else if (n3>n1 && n3>n2)
 		{
-			System.out.println("O maior valor é :"+n3);
+			System.out.println("O maior valor Ã© :"+n3);
 		}
 	}
  
