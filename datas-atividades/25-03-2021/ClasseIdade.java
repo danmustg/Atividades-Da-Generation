@@ -1,7 +1,7 @@
 package Turma20;
-
+// CLASSE DE IDADES
 import java.util.Scanner;
-public class ClasseIdade {
+public class ClasseIdade { 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
